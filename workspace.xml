@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3cc97ca-b84c-4cb9-8bf0-ba63cd594322" name="Changes" comment="# Initialize a new Git repository&#10;git init&#10;&#10;# Add your files to the repository&#10;git add .&#10;&#10;# Commit your changes&#10;git commit -m &quot;Initial commit&quot;&#10;&#10;# Add the remote repository URL&#10;git remote add origin https://github.com/your-username/your-repository-name.git&#10;&#10;# Push your changes to GitHub&#10;git push -u origin master">
+      <changelist_data name="Siddhant Kumar Jha" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Siddhant Kumar Jha" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2neBzmHuBVtPLBZNZPla0o6Z2r4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.RAGModel.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/siddh/PycharmProjects/RAGmodel/venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\siddh\PycharmProjects\RAGmodel\venv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3cc97ca-b84c-4cb9-8bf0-ba63cd594322" name="Changes" comment="" />
+      <created>1729323926684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729323926684</updated>
+      <workItem from="1729323936076" duration="1388000" />
+      <workItem from="1729325729099" duration="4562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5342e1d6-e13f-4e93-abf5-f4fb916cfe37" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5342e1d6-e13f-4e93-abf5-f4fb916cfe37">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eb582828160bf1a327b40971a01b9560b575ed14" />
+    <MESSAGE value="siddhantkumar345@hotmail.com" />
+    <MESSAGE value="# Initialize a new Git repository&#10;git init&#10;&#10;# Add your files to the repository&#10;git add .&#10;&#10;# Commit your changes&#10;git commit -m &quot;Initial commit&quot;&#10;&#10;# Add the remote repository URL&#10;git remote add origin https://github.com/your-username/your-repository-name.git&#10;&#10;# Push your changes to GitHub&#10;git push -u origin master" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Initialize a new Git repository&#10;git init&#10;&#10;# Add your files to the repository&#10;git add .&#10;&#10;# Commit your changes&#10;git commit -m &quot;Initial commit&quot;&#10;&#10;# Add the remote repository URL&#10;git remote add origin https://github.com/your-username/your-repository-name.git&#10;&#10;# Push your changes to GitHub&#10;git push -u origin master" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RAGmodel$RAGModel.coverage" NAME="RAGModel Coverage Results" MODIFIED="1729327072558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
